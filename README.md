@@ -18,21 +18,6 @@
 
 <div align="center">
   
-  <!-- 霓虹社交按钮 -->
-  <a href="mailto:kejiyuzhe@qq.com">
-    <img src="https://img.shields.io/badge/Email-kejiyuzhe%40qq.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6B6B" />
-  </a>
-  <a href="https://bugcool.cn">
-    <img src="https://img.shields.io/badge/🌐_Website-bugcool.cn-4ECDC4?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117&color=4ECDC4" />
-  </a>
-  <a href="https://github.com/TechLinguis">
-    <img src="https://img.shields.io/badge/GitHub-TechLinguis-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=38BDF8" />
-  </a>
-  
-</div>
-
-<div align="center">
-  
   <!-- 酷炫信息卡片 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechLinguis&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=F472B6&fire=F472B6&currStreakLabel=38BDF8" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechLinguis&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
