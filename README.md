@@ -4,23 +4,6 @@
 
 </div>
 
-<!-- 炫光 ASCII 艺术 -->
-<div align="center">
-  
-```ansi
-  ______          __    __    _                   _     
- /_  __/__  _____/ /_  / /   (_)___  ____ ___  __(_)____
-  / / / _ \/ ___/ __ \/ /   / / __ \/ __ `/ / / / / ___/
- / / /  __/ /__/ / / / /___/ / / / / /_/ / /_/ / (__  ) 
-/_/  \___/\___/_/ /_/_____/_/_/ /_/\__, /\__,_/_/____/  
-                                  /____/                
-
-```
-</div>
-
----
-
-
 ### 🛸 𝚃𝙴𝙲𝙷 𝙰𝚁𝚂𝙴𝙽𝙰𝙻
 
 <div align="center">
@@ -30,7 +13,7 @@
   
 </div>
 
-
+---
 ### 🌌 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 𝚆𝙸𝚃𝙷 𝙼𝙴
 
 <div align="center">
@@ -55,8 +38,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechLinguis&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   
 </div>
-
----
 
 <!-- 波浪动画 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,14,19&height=120&section=footer&animation=twinkling" width="100%" />
